@@ -1,6 +1,6 @@
 ![logo](https://github.com/iamaymanbd/iamaymanbd/blob/main/Ayman_Banner.gif)
 <h1 align="center">Hi 👋, I'm Ayman Ullah</h1>
-<h3 align="center">A passionate Software Developer from Bangladesh 🇧🇩</h3>
+<h3 align="center">A passionate Software Developer from Bangladesh </h3>
 
 <img align="right" alt="Welcome to Coding" width="500" src="https://github.com/iamaymanbd/iamaymanbd/blob/main/welcome-to-coding.gif">
 
